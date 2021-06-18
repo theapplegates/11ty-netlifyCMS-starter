@@ -18,4 +18,4 @@ A test
 
 Test 2
 
-![Volvo](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1623851917/2021-volvo.jpg)
+![Volvo](https://res.cloudinary.com/paulportfolio/image/upload/f_avif,q_auto,w_auto,c_scale/v1623851917/2021-volvo.avif)
