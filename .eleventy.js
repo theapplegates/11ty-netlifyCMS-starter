@@ -17,7 +17,7 @@ async function imageShortcode(src, alt) {
   }
   let metadata = await Image(src, {
     widths: [600, 900, 1500],
-    formats: ['avif', 'webp', 'jpeg'],
+    formats: ['avif', 'webp', 'jpg'],
     urlPath: "/static/img",
     outputDir: "./_site/static/img/",
     /* =====
