@@ -13,3 +13,6 @@ Fingers crossed
 ![The infotainment system](/static/img/279243_volvo_cars_brings_infotainment_system_with_google_built_in_to_more_models.jpg)
 
 {% image "dancer.jpg", "A dancer" %}
+
+
+{% image "mxb-a.jpg", "A Max's Website" %}
